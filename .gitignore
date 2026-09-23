@@ -7,3 +7,6 @@ openspec/
 
 # Windows metadata copied into WSL
 *:Zone.Identifier
+
+# CodeGraph local index
+.codegraph/
