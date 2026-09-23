@@ -1,0 +1,9 @@
+# Local AI runtime state
+.atl/
+
+# Local planning/design docs (not part of the repository)
+DESIGN.md
+openspec/
+
+# Windows metadata copied into WSL
+*:Zone.Identifier
